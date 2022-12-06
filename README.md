@@ -28,7 +28,7 @@
 # GitHub520 Host Start
 140.82.114.3                  alive.github.com
 140.82.114.3                  live.github.com
-34.237.51.209                 github.githubassets.com
+54.210.61.40                  github.githubassets.com
 140.82.114.3                  central.github.com
 199.232.28.133                desktop.githubusercontent.com
 140.82.114.3                  assets-cdn.github.com
@@ -38,7 +38,6 @@
 140.82.114.3                  gist.github.com
 185.199.108.153               github.io
 140.82.114.3                  github.com
-192.0.66.2                    github.blog
 140.82.114.3                  api.github.com
 199.232.28.133                raw.githubusercontent.com
 199.232.28.133                user-images.githubusercontent.com
@@ -58,23 +57,22 @@
 72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 140.82.114.17                 github.community
-52.224.38.193                 github.dev
 140.82.114.3                  collector.github.com
 199.232.28.133                pipelines.actions.githubusercontent.com
 199.232.28.133                media.githubusercontent.com
 199.232.28.133                cloud.githubusercontent.com
 199.232.28.133                objects.githubusercontent.com
-13.107.219.40                 vscode.dev
+13.107.237.40                 vscode.dev
 
 
-# Update time: 2022-12-06T09:10:13+08:00
+# Update time: 2022-12-06T10:41:26+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-12-06T09:10:13+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-12-06T10:41:26+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
