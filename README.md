@@ -27,7 +27,6 @@
 ```bash
 # GitHub520 Host Start
 140.82.113.3                  alive.github.com
-140.82.113.3                  live.github.com
 140.82.113.3                  central.github.com
 140.82.113.3                  assets-cdn.github.com
 151.101.1.6                   github.map.fastly.net
@@ -50,14 +49,14 @@
 13.107.226.40                 vscode.dev
 
 
-# Update time: 2024-02-15T20:23:46+08:00
+# Update time: 2024-02-16T16:17:59+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2024-02-15T20:23:46+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2024-02-16T16:17:59+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
